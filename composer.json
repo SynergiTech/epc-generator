@@ -1,5 +1,5 @@
 {
-    "name": "rexlabs/epc-generator",
+    "name": "synergitech/epc-generator",
     "description": "Energy Performance Graph Generator",
     "keywords": [
         "epc",
@@ -7,7 +7,7 @@
         "epc graph generator"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/rexlabsio/epc-generator",
+    "homepage": "https://github.com/synergitech/epc-generator",
     "authors": [
         {
             "name": "Andrea Marco Sartori",
